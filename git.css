@@ -1,0 +1,52 @@
+body {
+    background-color: dimgrey;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.PartOne{
+    width: 500px;
+    height: 600px;
+}
+.PartTwo{
+    width: 500px;
+    height: 600px;
+}
+.text1{
+    border-top: solid black 2px;
+    background-color: royalblue;
+    text-align: center;
+    height: 8.2%;
+    width: 100%;
+    font-size: 25px;
+}
+.text2{
+    border-top: solid black 2px;
+    background-color: yellow;
+    text-align: center;
+    height: 8.2%;
+    width: 100%;
+    font-size: 25px;
+}
+.title1{
+    border-bottom: solid rgb(255, 255, 255) 1px;
+    border-right: solid black 2px;
+    background-color: white;
+    text-align: center;
+    height: 9%;
+    width: 100%;
+    font-size: 40px;
+}
+.title2{
+    border-bottom: solid white 1px;
+    border-left:solid black 2px;
+    background-color: white;
+    text-align: center;
+    height: 9%;
+    width: 100%;
+    font-size: 40px;
+}
+
